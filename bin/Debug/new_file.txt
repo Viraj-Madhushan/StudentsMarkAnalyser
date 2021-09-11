@@ -1,0 +1,12 @@
+---------- STUDENT MARK SHEET ----------
+
+1. Enter Student Marks
+2. Search Student
+3. Student Rank in class
+4. Student Rank in school
+5. Exit
+
+---------- ################## ----------
+
+ 
+Select an Option : 

@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1631341078 source:f:\code block\students_marks_analyzer\entermark.cpp
+	"enterMark.h"
+	"mainInterface.h"
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
+1631254505 f:\code block\students_marks_analyzer\entermark.h
+	<string>
+
+1631199681 f:\code block\students_marks_analyzer\maininterface.h
+
+1631268365 source:f:\code block\students_marks_analyzer\main.cpp
+	<iostream>
+	<string>
+	"enterMark.h"
+	"mainInterface.h"
+
+1631350226 source:f:\code block\students_marks_analyzer\maininterface.cpp
+	"mainInterface.h"
+	"enterMark.h"
+	"searchStu.h"
+	"rankClass.h"
+	"rankSchool.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1631257578 f:\code block\students_marks_analyzer\searchstu.h
+
+1631351206 f:\code block\students_marks_analyzer\rankclass.h
+
+1631353626 f:\code block\students_marks_analyzer\rankschool.h
+
+1631353756 source:f:\code block\students_marks_analyzer\rankschool.cpp
+	"rankSchool.h"
+	"mainInterface.h"
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
+1631342938 source:f:\code block\students_marks_analyzer\searchstu.cpp
+	"searchStu.h"
+	"mainInterface.h"
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
+1631352678 source:f:\code block\students_marks_analyzer\rankclass.cpp
+	"rankClass.h"
+	"mainInterface.h"
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
